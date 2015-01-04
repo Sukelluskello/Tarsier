@@ -1,4 +1,4 @@
 Tarsier
 ======
 
-Python thing for testing websockets
+Python thing for out-of-band replication of resource data store in multiple availability zones.
